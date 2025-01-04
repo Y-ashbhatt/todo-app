@@ -1,0 +1,7 @@
+# Ignore artifacts:
+build
+coverage
+.gitignore
+.husky/pre-commit
+.prettierignore
+public/vite.svg
